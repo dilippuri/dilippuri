@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <!-- 
 ![banner](https://github.com/dilippuri/dilippuri/blob/master/background.gif)
 -->
