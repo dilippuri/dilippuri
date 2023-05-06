@@ -2,6 +2,7 @@
 <h3 align="center">A passionate firmware engineer at Intel, Bengaluru, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilippuri&label=Profile%20views&color=0e75b6&style=flat" alt="dilippuri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilippuri.github.io&label=Profile%20views&color=0e75b6&style=flat" alt="dilippuri" /> </p>
 
 - 🔭 I’m currently working on [AI accelerators.](https://ai.intel.com/)
 
