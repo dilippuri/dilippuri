@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilippuri&label=Profile%20views&color=0e75b6&style=flat" alt="dilippuri" /> </p>
 
-- 🔭 I’m currently working on [AI accelerators.](https://ai.intel.com/)
+- 🔭 I’m currently working on [AI accelerators.](https://ai.intel.com/){:target="_blank" rel="noopener"}
 
 - 👨‍💻 All of my projects are available at [dilippuri.github.io](dilippuri.github.io)
 
